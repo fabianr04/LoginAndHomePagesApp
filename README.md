@@ -15,6 +15,7 @@ Aplicación Android para visualización de información de jugadores de fútbol,
 - **Jetpack Components**:
   - ViewModel
   - LiveData
+  - Flows
   - Navigation Component
   - Dagger Hilt
 - **Supabase** para almacenamiento de imágenes en la nube
