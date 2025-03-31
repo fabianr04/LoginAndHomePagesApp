@@ -18,8 +18,9 @@ Aplicación Android para visualización de información de jugadores de fútbol,
   - Flows
   - Navigation Component
   - Dagger Hilt
+- **Credential Manager** para la autenticacion con Google
 - **Supabase** para almacenamiento de imágenes en la nube
-- **Firebase** para almacenamiento en la nube
+- **Firebase** para almacenamiento en la nube y autenticacion de usuarios
 - **Coil** para carga de imágenes
 <div align="center" style="display:flex; flex-wrap:wrap; gap:26px; justify-content:center;">
   <!-- Imagen 1 -->
