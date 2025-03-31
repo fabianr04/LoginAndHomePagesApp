@@ -1,6 +1,6 @@
 # ⚽ Football Players App
 
-Aplicación Android para gestión y visualización de información de jugadores de fútbol, con sistema de autenticación y pantallas dinámicas.
+Aplicación Android para visualización de información de jugadores de fútbol, con sistema de autenticación y pantallas dinámicas.
 
 ## 🚀 Funcionalidades clave
 - **Sistema de Login** mediante google
